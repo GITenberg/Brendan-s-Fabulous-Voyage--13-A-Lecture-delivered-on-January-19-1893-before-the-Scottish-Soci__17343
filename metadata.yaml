@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6780
     wikipedia: http://en.wikipedia.org/wiki/John_Crichton-Stuart%2C_3rd_Marquess_of_Bute
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17343#Brendan-s-Fabulous-Voyage--13-A-Lecture-delivered-on-January-19-1893-before-the-Scottish-Soci_
 gutenberg_issued: '2005-12-18'
 gutenberg_type: Text
 identifiers:
