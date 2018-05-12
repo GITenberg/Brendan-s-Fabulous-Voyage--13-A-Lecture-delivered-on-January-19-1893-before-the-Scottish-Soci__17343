@@ -1,0 +1,33 @@
+_repo: Brendan-s-Fabulous-Voyage--13-A-Lecture-delivered-on-January-19-1893-before-the-Scottish-Soci__17343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bute, John Patrick Crichton-Stuart, Marquess of
+    aliases:
+    - Botha, Joannes Patricus, marchio
+    - Stuart, John Patrick Crichton-, Marquess of Bute
+    - Crichton-Stuart, John Patrick, Marquess of Bute
+    - Crighton Stuart, John Patrick, Marquess of Bute
+    birthdate: 1847
+    deathdate: 1900
+    gutenberg_agent_id: '6780'
+    url: http://www.gutenberg.org/2009/agents/6780
+    wikipedia: http://en.wikipedia.org/wiki/John_Crichton-Stuart%2C_3rd_Marquess_of_Bute
+description: ''
+gutenberg_issued: '2005-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brendan, Saint, the Voyager, approximately 483-577'
+- !lcc 'BX'
+title: "Brendan's Fabulous Voyage\r\nA Lecture delivered on January 19, 1893, before\
+  \ the Scottish Society of Literature and Art"
+url: http://www.gutenberg.org/ebooks/17343
